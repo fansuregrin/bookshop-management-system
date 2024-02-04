@@ -13,13 +13,13 @@ cmake --build .
 
 ## ScreenShots
 - main menu
-![main_menu](./docs/images/main_menu.png)
+    ![main_menu](./docs/images/main_menu.png)
 - books menu
-![books_menu](./docs/images/books_menu.png)
+    ![books_menu](./docs/images/books_menu.png)
 - suppliers menu
-![suppliers_menu](./docs/images/suppliers_menu.png)
+    ![suppliers_menu](./docs/images/suppliers_menu.png)
 - purchases menu
-![purchases_menu](./docs/images/purchases_menu.png)
+    ![purchases_menu](./docs/images/purchases_menu.png)
 
 ## Acknowledgement
 - [Bookshop-Management-System-CPP-Project](https://github.com/aryan-dragun/Bookshop-Management-System-CPP-Project)
